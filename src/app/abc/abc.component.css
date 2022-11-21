@@ -1,0 +1,8 @@
+.verify{
+    position: absolute;
+   
+    
+    width: 140px;
+    transform: translateY(50%);
+    left: 20px;
+}

@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "emailverification"
+    }
+  },
+  "defaultProject": "emailverification",
+  "cli": {
+    "analytics": false
+  }
 }
